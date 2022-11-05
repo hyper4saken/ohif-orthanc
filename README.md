@@ -5,8 +5,11 @@
 **Orthanc:** Its free and open-source, lightweight DICOM server for medical imaging.
 
 ### Clone This Repo
-> cd /ohif-orthanc
-> docker-compose up -d
+```bash
+git clone https://github.com/premtshering/ohif-orthanc.git
+cd ohif-docker-compose
+docker-compose up -d
+```
 
 ### Access OHIF and Orthanc
 
