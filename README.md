@@ -9,6 +9,9 @@
 > docker-compose up -d
 
 ### Access OHIF and Orthanc
+
+![Ohif viewer](./ohif-orthanc.png)
+
 1. To access `OHIF` go to address `http://server-ip:3000`. 
 2. To access `ORTHANC` webpage go to address `http://server-ip:8042`
 
