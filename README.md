@@ -10,7 +10,7 @@
 
 ### Access OHIF and Orthanc
 
-![Ohif viewer](./ohif-orthanc.png)
+![Ohif viewer](./ohif-orthanc.jpg)
 
 1. To access `OHIF` go to address `http://server-ip:3000`. 
 2. To access `ORTHANC` webpage go to address `http://server-ip:8042`
