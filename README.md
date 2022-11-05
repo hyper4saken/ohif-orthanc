@@ -6,7 +6,7 @@
 
 ### Clone This Repo
 ```bash
-git clone https://github.com/premtshering/ohif-orthanc.git
+git clone https://github.com/hyper4saken/ohif-orthanc.git
 cd ohif-docker-compose
 docker-compose up -d
 ```
