@@ -24,4 +24,4 @@
 	 - AE: MAPDR
 	 - PORT: 4242
 	 - IP: your-server-ip
-3. If you have file locally install httplib2 with pip.
+3. If you have file locally install httplib2 with pip `python ImportDicomFiles.py localhost 8042 /path/to/input/dir`
