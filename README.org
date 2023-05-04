@@ -5,6 +5,11 @@
 
 =Orthanc=: Its free and open-source, lightweight DICOM server for medical imaging.
 
+*** Create new docker network =pacs=
+#+begin_src bash
+docker network create pacs
+#+end_src
+
 *** Clone This Repo
 #+begin_src bash
 git clone https://github.com/hyper4saken/ohif-orthanc.git
