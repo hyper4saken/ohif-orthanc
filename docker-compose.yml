@@ -30,3 +30,4 @@ services:
 
 networks:
   pacs:
+    external: true
